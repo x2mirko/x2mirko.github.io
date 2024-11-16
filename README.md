@@ -1,6 +1,6 @@
 # Come Together
 
-Auf dieser Seite findet ihr die wichtigsten Informationen rund um unsere Gruppe.
+Auf dieser Seite findet ihr die wichtigsten Informationen rund um unsere Gruppe. test
 
 ## Überblick
 * [Wer sind wir?](#über-uns)
